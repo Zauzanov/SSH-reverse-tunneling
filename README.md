@@ -86,7 +86,7 @@ Tunnel closed from ('127.0.0.1', 49462)
 http://127.0.0.1:8081/
 ```
 - Browse the link. If successful, you can see OWASP JS Homepage on your Kali machine:
-
+![js](https://raw.githubusercontent.com/Zauzanov/SSH-reverse-tunneling/refs/heads/main/result%20of%20tunneling.png)
 - It means the tunnel had been established;
 - The script had set up the reverse port forwarding. 
 # 5. ⚠️ERRORS⚠️
